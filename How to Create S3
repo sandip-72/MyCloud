@@ -1,0 +1,43 @@
+Create bucket (bucket name are unique)
+Add file
+object ownership
+block publick size
+*********************************
+Getting on data s3
+*********************************
+1) upload to website
+2) data import/export
+3) data pipeline
+
+
+is a simple storage service
+is an object based storage 
+no file system
+
+some point in s3
+versioning (Backup)
+encryption (required key)
+          1. AWS s3 managed keys (AES 256 Algorithm)
+          2. AWS KMS (Key Managemt Service)
+          3. Cutomer provider keys
+          4. Upload encrypted data
+ACL (Permission to permission set)
+
+*************************************
+Storage tires/classes
+*************************************
+1. standard
+2. IA (Infrequenlty accessed)
+3. one zone-IA
+4. Intelligent Tiering
+5. Glacier
+6. Glacier Deep Archive
+
+
+
+
+word denoted by
+List (New Name)
+Write (Make Changes)
+
+
